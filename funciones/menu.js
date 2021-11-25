@@ -119,19 +119,4 @@ exports.menu = (v) => {
 ▢ ${v}profile
 ▢ ${v}invite <549xxxx> 
 └──────────────
-┌─⊷ *OWNER* 
-▢ ${v}addpremium @user
-▢ ${v}delpremium @user
-▢ ${v}ban @user
-▢ ${v}unban @user
-▢ ${v}view
-▢ ${v}grouplist
-▢ ${v}update
-▢ ${v}setppbot
-▢ ${v}setfakethumb
-▢ ${v}setprefix
-▢ ${v}listreport
-▢ $
-▢ >
-└──────────────`;
-};
+
